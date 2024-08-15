@@ -1,4 +1,4 @@
-# Random-Python-Projects
+# Random-Python-WT-Projects
 
 Trying out random python :snake: tech i learn
 
